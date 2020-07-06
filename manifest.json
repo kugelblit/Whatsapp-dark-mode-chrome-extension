@@ -10,6 +10,6 @@
     },
     "content_scripts": [{
         "js": ["classupdater.js"],
-        "matches": ["https://web.whatsapp.com/"]
+        "matches": ["https://web.whatsapp.com/*"]
     }]
 }
